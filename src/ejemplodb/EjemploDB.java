@@ -5,6 +5,7 @@ import javax.swing.JOptionPane;
  
 /**
  * Conexión básica a la base de datos PostgreSQL.
+ * Ahora en un repositorio
  *
  */
 public class EjemploDB {
